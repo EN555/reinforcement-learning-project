@@ -1,9 +1,15 @@
-# reinforcement-learning-project
- 
-## Done:
- - Q-learning - Main & Target Network
- - SARSA
+# Reinforcement-Learning-Project - Space Invader
+
+## Project Goal
+To examine the effect of different game representations on different models
+
+## Space  Invader Representation
+ - Each state represent by the screenshot as we explain in the preprocess
+ - Space Invader ram representation - each state composed from 128 bytes that describe the game, this yield vector (1,128)
+
+## Models:
+ - Deep Q-learning - Main & Target
  - REINFORCE(MC)
  - Actor Critic
 
-Read more on the project press [here](https://docs.google.com/presentation/d/10AqDZIxma_S2JroKJRLLqhP9dijU-_V-Q8RoQvU_Eus/edit#slide=id.g12ef171e761_0_5)! 
+To Read more on the project press [here](https://docs.google.com/presentation/d/10AqDZIxma_S2JroKJRLLqhP9dijU-_V-Q8RoQvU_Eus/edit#slide=id.g12ef171e761_0_5)! 
