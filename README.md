@@ -13,7 +13,10 @@ To examine the effect of different game representations on different models
  - Actor Critic
 
 ## Results
- - Ram representation is much quicker compared to pixels state since each state (1,128)
+ - Ram representation is much quicker compared to pixels state since each state (1,128) specially when we add exploration in the test time ![](Results/exploration-test-time.PNG)
  - The model converge after some hundreds of episode
+
+   
+   ![](Results/ram-reprsentation.png)
    
 To Read more on the project press [here](https://docs.google.com/presentation/d/10AqDZIxma_S2JroKJRLLqhP9dijU-_V-Q8RoQvU_Eus/edit#slide=id.g12ef171e761_0_5)! 
