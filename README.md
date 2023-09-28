@@ -12,4 +12,8 @@ To examine the effect of different game representations on different models
  - REINFORCE(MC)
  - Actor Critic
 
+## Results
+ - Ram representation is much quicker compared to pixels state since each state (1,128)
+ - The model converge after some hundreds of episode
+   
 To Read more on the project press [here](https://docs.google.com/presentation/d/10AqDZIxma_S2JroKJRLLqhP9dijU-_V-Q8RoQvU_Eus/edit#slide=id.g12ef171e761_0_5)! 
