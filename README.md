@@ -1,7 +1,7 @@
 # Reinforcement-Learning-Project - Space Invader
 
 ## Project Goal
-To examine the effect of different game representations on different models
+To examine the effect of different game representations on different models and to check the effect of adding explaoration in the test time
 
 ## Space  Invader Representation
  - Each state represent by the screenshot with some preprocess
