@@ -5,7 +5,7 @@ To examine the effect of different game representations on different models
 
 ## Space  Invader Representation
  - Each state represent by the screenshot as we explain in the preprocess
- - Space Invader ram representation - each state composed from 128 bytes that describe the game, this yield vector (1,128)
+ - Each state represent ram representation - each state composed from 128 bytes that describe the game, this yield vector (1,128)
 
 ## Models:
  - Deep Q-learning - Main & Target
